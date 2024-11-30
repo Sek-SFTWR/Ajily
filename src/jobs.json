@@ -1,0 +1,158 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Ахлах Vue Хөгжүүлэгч",
+      "type": "Бүтэн Цагийн",
+      "location": "Улаанбаатар, Монгол",
+      "description": "Бид HTML, CSS, JavaScript-д чадварлаг, Vue эсвэл Angular зэрэг орчин үеийн JavaScript фреймворк дээр ажиллах туршлагатай Front-End хөгжүүлэгч хайж байна.",
+      "salary": "Жилийн ₮90M - ₮100M",
+      "company": {
+        "name": "Шинэ Тек Технологи",
+        "description": "Шинэ Тек Технологи бол вэб хөгжүүлэлт, дижитал шийдэлд мэргэшсэн тэргүүлэгч технологийн компани юм.",
+        "contactEmail": "contact@teksolutions.mn",
+        "contactPhone": "99001122"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Инженер (Vue)",
+      "type": "Бүтэн Цагийн",
+      "location": "Дархан, Монгол",
+      "description": "Манай багт UI/UX дизайн, нарийвчлалтай сайхан вэб аппликейшн хөгжүүлэх чадвартай хөгжүүлэгч хайж байна.",
+      "salary": "Жилийн ₮70M - ₮80M",
+      "company": {
+        "name": "Дижитал Шийдэл",
+        "description": "Дижитал Шийдэл нь дижитал дизайнд мэргэшсэн агентлаг юм.",
+        "contactEmail": "contact@digital.mn",
+        "contactPhone": "99112233"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Vue.js Хөгжүүлэгч",
+      "type": "Бүтэн Цагийн",
+      "location": "Эрдэнэт, Монгол",
+      "description": "Front-End хөгжүүлэлтийг сонирхдог уу? Бидэнтэй хамтран, гайхалтай төслүүд дээр ажиллаарай.",
+      "salary": "Жилийн ₮80M - ₮90M",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud бол жижиг, том бизнесүүдэд зориулсан дижитал шийдэл нийлүүлэгч тэргүүлэгч технологийн компани юм.",
+        "contactEmail": "contact@dolor.mn",
+        "contactPhone": "99003344"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Vue Front-End Хөгжүүлэгч",
+      "type": "Цагийн",
+      "location": "Өмнөговь, Монгол",
+      "description": "Front-End хөгжүүлэгч хайж байна. Уян хатан цагийн хуваарь, алсаас ажиллах боломжтой.",
+      "salary": "Жилийн ₮60M - ₮70M",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite нь дижитал маркетинг, вэб хөгжүүлэлтэд мэргэшсэн компани юм.",
+        "contactEmail": "contact@alpha.mn",
+        "contactPhone": "99998877"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack Vue Хөгжүүлэгч",
+      "type": "Бүтэн Цагийн",
+      "location": "Улаанбаатар, Монгол",
+      "description": "Эрч хүчтэй багт Full Stack хөгжүүлэгч хайж байна. Өсөлт, дэвшилттэй ажил санал болгож байна.",
+      "salary": "Жилийн ₮100M - ₮120M",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies нь цахим худалдааны шийдэлд мэргэшсэн өсөлттэй компани юм.",
+        "contactEmail": "contact@browning.mn",
+        "contactPhone": "99115566"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Vue Native Хөгжүүлэгч",
+      "type": "Бүтэн Цагийн",
+      "location": "Сүхбаатар, Монгол",
+      "description": "Манай багт нэгдэх хүсэлтэй, вэб хөгжүүлэлтэд дуртай хүнийг хайж байна.",
+      "salary": "Жилийн ₮110M - ₮120M",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions бол программ хангамж хөгжүүлэлтийн тэргүүлэгч компани юм.",
+        "contactEmail": "contact@portsolutions.mn",
+        "contactPhone": "99004455"
+      }
+    },
+    {
+      "id": "7",
+      "title": "AI/ML Инженер",
+      "type": "Алсын ажил",
+      "location": "Улаанбаатар, Монгол",
+      "description": "Хиймэл оюун ухаан болон машин сургалтын чиглэлээр чадварлаг ажилтан хайж байна.",
+      "salary": "Жилийн ₮200M+",
+      "company": {
+        "name": "MongolSoft",
+        "description": "2025 оноос хойш үйл ажиллагаагаа явуулж буй программ хангамжийн компани.",
+        "contactEmail": "contact@mongolsoft.mn",
+        "contactPhone": "94231883"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Back-End Хөгжүүлэгч",
+      "type": "Бүтэн Цагийн",
+      "location": "Улаанбаатар, Монгол",
+      "description": "Python, FastAPI дээр ажиллах туршлагатай хөгжүүлэгч хайж байна.",
+      "salary": "Жилийн ₮90M - ₮110M",
+      "company": {
+        "name": "Backend Tech",
+        "description": "Дэд бүтцийн хөгжүүлэлтэд мэргэшсэн технологийн компани.",
+        "contactEmail": "backend@tech.mn",
+        "contactPhone": "99117788"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Мэдээллийн Архитектор",
+      "type": "Бүтэн Цагийн",
+      "location": "Дархан, Монгол",
+      "description": "Мэдээллийн бүтэц зохион байгуулалтад мэргэшсэн архитекторыг хайж байна.",
+      "salary": "Жилийн ₮100M - ₮130M",
+      "company": {
+        "name": "InfoArch Inc.",
+        "description": "Мэдээллийн бүтэц, шийдлийн компаний тэргүүн.",
+        "contactEmail": "info@arch.mn",
+        "contactPhone": "99009900"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Дижитал Дизайнер",
+      "type": "Цагийн",
+      "location": "Эрдэнэт, Монгол",
+      "description": "График болон UX/UI дизайн хийх сонирхолтой хүнийг хайж байна.",
+      "salary": "Жилийн ₮50M - ₮60M",
+      "company": {
+        "name": "Creative Designs LLC",
+        "description": "Дижитал шийдэл, дизайны агентлаг.",
+        "contactEmail": "designs@creative.mn",
+        "contactPhone": "99996677"
+      }
+    },
+    {
+      "id": "586c",
+      "title": "yronhii zahiral",
+      "type": "Бүтэн цагийн",
+      "location": "Ulaanbaatar mongolia",
+      "description": "officiin bvh dawharuudiin ylaa alah",
+      "salary": "3 сая - 4 сая",
+      "company": {
+        "name": "MongolSoft",
+        "description": "sdfasdfsd",
+        "contactEmail": "asdfasdf@gmail.com",
+        "contactPhone": "112341234123"
+      }
+    }
+  ]
+}
